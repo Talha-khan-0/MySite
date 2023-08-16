@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MySite/static/css/main.80813b90.css",
+    "main.js": "/MySite/static/js/main.5180dcf1.js",
+    "static/media/capstoneShowcase.JPG": "/MySite/static/media/capstoneShowcase.9ba2ba755a721db2ba38.JPG",
+    "static/media/profilePic.png": "/MySite/static/media/profilePic.3db511a799df698da685.png",
+    "static/media/TrainingPic.JPG": "/MySite/static/media/TrainingPic.4b6b6a6448de15b379df.JPG",
+    "static/media/portfolioPic.JPG": "/MySite/static/media/portfolioPic.1a7c1816c926980c92d4.JPG",
+    "index.html": "/MySite/index.html",
+    "main.80813b90.css.map": "/MySite/static/css/main.80813b90.css.map",
+    "main.5180dcf1.js.map": "/MySite/static/js/main.5180dcf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80813b90.css",
+    "static/js/main.5180dcf1.js"
+  ]
+}
