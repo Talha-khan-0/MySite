@@ -19,11 +19,11 @@ const About = () => {
         >
           <PicDisplay imageUrl={profilePic} width="55%">
             {" "}
-            Currently I am an application support engineer at Fusion Health. My
+            Currently I am an application support/devoloper at Fusion Health. My
             responsibilities are to communcate and trouble shoot issues with end
             users and make sure the application runs smoothly. This involves
             server side maintanance,querying through the Database to update
-            tables or other information.
+            tables or other information. Later I would go on to help devolop and program applications for clients on a smaller team. 
           </PicDisplay>
 
           <PicDisplay imageUrl={capstoneShowcase}>
